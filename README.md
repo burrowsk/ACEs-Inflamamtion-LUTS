@@ -58,6 +58,7 @@ Run using HPC:
 - change_filenames.sh [can't quite remember why this was needed]
 
 ### 05-mediation
+Run using local machine (RStudio):
 - rrules_ace_score_luts.R
 - rrules_ace_score_luts_mod2.R
 
