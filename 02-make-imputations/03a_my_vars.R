@@ -1,0 +1,20 @@
+my_vars <- c("aln", "qlet", "crp", "il6",
+             "daywet_14", "bedwet_14", "freq_urine_14", "nocturia_14", "urgency_14", "void_postpone_14", "void_volume_14", "ui_14",
+             "bmi_8", "constipation_8", "sdq_8",
+             "sex", "matage", "parity", "mateducation", "housetenure",
+             "devlevel", "ethnicity", "birthweight",
+             "gest_age", "marital", "crowding", "smoked_pregnancy_cat",
+             "age_bloods_9",
+             "daywet_7_9", "bedwet_7_9", "freq_urine_7_9", "nocturia_7_9", "urgency_7_9", "void_postpone_7_9", "signs_urine_7_9", "day_soiling_7_9",
+             "bmi_7", "bmi_9", "sdq_6", "constipation_7")
+
+#my_vars <- c("aln", "qlet", "crp", "il6",
+#             "daywet_14", "bedwet_14", "freq_urine_14", "nocturia_14", "urgency_14", "void_postpone_14", "void_volume_14", "ui_14",
+#             "bmi_8", "constipation_8", "sdq_8",
+#             "sex", "matage", "parity", "mateducation", "housetenure",
+#             "devlevel", "ethnicity", "birthweight",
+#             "gest_age", "marital", "crowding", "smoked_pregnancy_cat",
+#             "age_bloods_9",
+#             "daywet_7", "bedwet_7", "freq_urine_7", "nocturia_7", "urgency_7", "void_postpone_7", "signs_urine_7", "day_soiling_7", "night_soiling_7",
+#             "daywet_9", "bedwet_9", "freq_urine_9", "nocturia_9", "urgency_9", "void_postpone_9", "signs_urine_9", "day_soiling_9", "night_soiling_9",
+#             "bmi_7", "bmi_9", "sdq_6", "constipation_7")
