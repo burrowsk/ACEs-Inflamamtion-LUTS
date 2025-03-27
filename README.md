@@ -55,7 +55,7 @@ Run using HPC:
 - stata_imps_array.do [this is the syntax to perform the mediation analysis for model 1 and 2]
 - search_mem_issues.sh [search the Stata log files for error messages due to memory issues]
 - app_logs.sh [append the 80 log files into 1 file for each of the exposure-outcome models]
-- change_filenames.sh [can't quite remember why this was needed]
+- change_filenames.sh [can't quite remember why this was needed] **TO DO**
 
 ### 05-mediation
 Run using local machine (RStudio):
@@ -63,3 +63,5 @@ Run using local machine (RStudio):
 - rrules_ace_score_luts_mod2.R
 
 [scripts to perform Rubin's Rules for model 1 and 2 of imputed data and create Table 3 and S11]
+
+** TO DO: ADD IN EXTRACTING INFO FOR COMPLETE CASE MEDIATION TABLES**
