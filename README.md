@@ -64,4 +64,4 @@ Run using local machine (RStudio):
 
 [scripts to perform Rubin's Rules for model 1 and 2 of imputed data and create Table 3 and S11]
 
-** TO DO: ADD IN EXTRACTING INFO FOR COMPLETE CASE MEDIATION TABLES**
+**TO DO: ADD IN EXTRACTING INFO FOR COMPLETE CASE MEDIATION TABLES**
